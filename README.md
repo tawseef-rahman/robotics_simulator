@@ -21,3 +21,25 @@ To build the project, run:
 ```bash
 make
 ```
+
+To build the unit tests, navigate to the test directory and run:
+
+```bash
+cd test
+make
+```
+
+## Running
+
+To run the simulator, execute:
+
+```bash
+./simulator
+```
+
+To run unit tests, navigate to the test directory and execute:
+
+```bash
+cd test
+./test_executable
+```
