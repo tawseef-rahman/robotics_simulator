@@ -22,7 +22,7 @@ To build the project, run:
 make
 ```
 
-To build the unit tests, navigate to the test directory and run:
+To build the unit tests, navigate to the 'test' directory and run:
 
 ```bash
 cd test
@@ -37,7 +37,7 @@ To run the simulator, execute:
 ./simulator
 ```
 
-To run unit tests, navigate to the test directory and execute:
+To run unit tests, navigate to the 'test' directory and execute:
 
 ```bash
 cd test
